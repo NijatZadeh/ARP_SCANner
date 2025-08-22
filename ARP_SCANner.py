@@ -28,12 +28,5 @@ result = srp(packet, timeout=2, verbose=0)[0]
 for sent, received in result:
 	print(f"IP: {received.psrc} MAC: {received.hwsrc}")
 
-#yazilan kod - lokal sebekede olan butun cihazlarin ip ve mac
-#unvanlarini gostermek ucun istfade edilir...
-
-#received.psrc - gonderenin ip unvani
-#receive.hwsrc - gonderenin mac unvani
-
-#sebekede butun cihazlari tapmaq ucun ff:ff:ff:ff:ff:ff yaziriq
-
 #==========================ArpScan===============================
+
