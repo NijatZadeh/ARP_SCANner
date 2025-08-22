@@ -20,11 +20,11 @@ Deyisdirin Hedef_Ip/Cidr sebekenizle, numune olaraq, "192.168.1.1/24"
 
 How to use this tool:
 
-sudo python Scapy.py
+sudo python ARP_SCANner.py
 Replace TARGET_IP/CIDR with your network, e.g., "192.168.1.1/24"
 
 Как использовать инструмент:
 
-sudo python Scapy.py
+sudo python ARP_SCANner.py
 Замените TARGET_IP/CIDR на вашу сеть, например "192.168.1.1/24"
 #=============================================================================
