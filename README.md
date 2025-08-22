@@ -13,18 +13,18 @@ The usage is very easy and user-friendly.
 Использование очень удобное и понятное.
 
 #=============================================================================
-Nece istifade edilir:
+Nece istifade edilir alet:
 
-python ARP_SCANner.py
+sudo python ARP_SCANner.py
 Deyisdirin Hedef_Ip/Cidr sebekenizle, numune olaraq, "192.168.1.1/24"
 
 How to use this tool:
 
-python Scapy.py
+sudo python Scapy.py
 Replace TARGET_IP/CIDR with your network, e.g., "192.168.1.1/24"
 
 Как использовать инструмент:
 
-python Scapy.py
+sudo python Scapy.py
 Замените TARGET_IP/CIDR на вашу сеть, например "192.168.1.1/24"
-#==============================================================================
+#=============================================================================
