@@ -13,7 +13,7 @@ The usage is very easy and user-friendly.
 Использование очень удобное и понятное.
 
 #=============================================================================
-Nece istifade edilir alet:
+Alet nece istifade edilir:
 
 sudo python ARP_SCANner.py
 Deyisdirin Hedef_Ip/Cidr sebekenizle, numune olaraq, "192.168.1.1/24"
