@@ -17,7 +17,7 @@ print(banner)
 
 from scapy.all import ARP, Ether, srp 
 
-target = "TARGET_IP/CIDR" #EXAMPLE: "192.168.100.1/24"
+target = "TARGET_IP/CIDR" #EXAMPLE: "192.168.1.1/24"
 
 arp = ARP(pdst=target) 
 ether = Ether(dst="ff:ff:ff:ff:ff:ff") #UNIVERSAL BROADCAST
@@ -29,4 +29,5 @@ for sent, received in result:
 	print(f"IP: {received.psrc} MAC: {received.hwsrc}")
 
 #==========================ArpScan===============================
+
 
