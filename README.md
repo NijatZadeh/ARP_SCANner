@@ -1,5 +1,5 @@
 # ARP Tarayan (Tehlukesiz Numune) 🇦🇿🇦🇿
-Bu alət şəbəkədə ARP paketi göndərərək IP və MAC ünvanlarını tapır.
+Bu alət şəbəkəyə ARP paketi göndərərək IP və MAC ünvanlarını tapır.
 Sade ve tam yararli bir aletdir. Istifade usulu cox rahatdir.
 
 # ARP Scanner (Safe Example) 🇬🇧
@@ -16,7 +16,7 @@ The usage is very easy and user-friendly.
 Alet nece istifade edilir:
 
 sudo python ARP_SCANner.py
-Deyisdirin Hedef_Ip/Cidr sebekenizle, numune olaraq, "192.168.1.1/24"
+Deyisdirin Hedef_Ip/Cidr sebekenizle, numune olaraq, "192.168.1.0/24"
 
 How to use this tool:
 
