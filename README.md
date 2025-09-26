@@ -1,5 +1,5 @@
 # ARP Tarayan (Tehlukesiz Numune) 🇦🇿🇦🇿
-Bu alət şəbəkəyə ARP paketi göndərərək IP və MAC ünvanlarını tapır.
+Bu alət şəbəkədə ARP paketi göndərərək IP və MAC ünvanlarını tapır.
 Sade ve tam yararli bir aletdir. Istifade usulu cox rahatdir.
 
 # ARP Scanner (Safe Example) 🇬🇧
