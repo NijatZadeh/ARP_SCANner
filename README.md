@@ -13,18 +13,21 @@ The usage is very easy and user-friendly.
 Использование очень удобное и понятное.
 
 #=============================================================================
+
 Alet nece istifade edilir:
 
-sudo python ARP_SCANner.py
+sudo python3 ARP_SCANner.py
 Deyisdirin Hedef_Ip/Cidr sebekenizle, numune olaraq, "192.168.1.0/24"
 
 How to use this tool:
 
-sudo python ARP_SCANner.py
-Replace TARGET_IP/CIDR with your network, e.g., "192.168.1.1/24"
+sudo python3 ARP_SCANner.py
+Replace TARGET_IP/CIDR with your network, e.g., "192.168.1.0/24"
 
 Как использовать инструмент:
 
-sudo python ARP_SCANner.py
+sudo python3 ARP_SCANner.py
+Замените TARGET_IP/CIDR на вашу сеть, например, "192.168.1.0/24"
+
 Замените TARGET_IP/CIDR на вашу сеть, например "192.168.1.1/24"
 #=============================================================================
